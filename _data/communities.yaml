@@ -230,3 +230,15 @@
   maintainers:
     - name: "Panagiotis Tzamtzis"
       website: "https://tzamtzis.gr/"
+
+
+
+- name: "Game Developers & Artists SKG"
+  period: "Monthly"
+  image: https://imgur.com/XKHbSSM (can't upload image to the repository)
+  description: "The MeetUp for North Greece based Game Developers, digital and tabletop. Everyone from the industry is welcomed! 2D/3D Artists, Animators, Sound Designers, UX Gurus etc. Come here to network, chat and tell your stories!"
+  website: "https://www.facebook.com/groups/724726561365321/"
+  maintainers:
+    - name: "Christos Perchanidis"
+      website: "https://paovikistudio.wordpress.com"
+      email: "pmchrist@protonmail.com"
